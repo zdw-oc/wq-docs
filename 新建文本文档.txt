@@ -1,0 +1,1 @@
+configure -make nmake -platform win32-msvc2015 -prefix C:\Qt\Qt4.8.7 -opensource -confirm-license -opengl desktop -nomake examples -nomake tests -mp -debug -developer-build
